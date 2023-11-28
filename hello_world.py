@@ -12,6 +12,7 @@ def main():
     minimo = 1
     maximo = 100
     porcentaje_aleatorio = calcular_porcentaje_aleatorio(minimo, maximo)
+    print(f"Eres {porcentaje_aleatorio}% gay")
 
     if porcentaje_aleatorio < 50:
         return "eres poco gay"
