@@ -2,6 +2,5 @@
 
 
 # A esa primera linea se le llama shebang, indica como ejecutar codigo sin necesidad de indicar el programa que lo interpreta
-
 for i in range(0, 33):
-    print("Estaré atento a las explicaciones para no preguntar lo mismo 20 veces")
+    print("Primero estar atento, luego copiar")
