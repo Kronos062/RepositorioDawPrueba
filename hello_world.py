@@ -5,7 +5,7 @@
 import random
 
 def calcular_porcentaje_aleatorio(minimo, maximo):
-    return random.uniform(minimo, maximo)
+    return round(random.uniform(minimo, maximo))
 
 def main():
     minimo = 1
