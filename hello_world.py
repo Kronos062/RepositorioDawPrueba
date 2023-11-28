@@ -15,11 +15,11 @@ def main():
     print(f"Eres {porcentaje_aleatorio}% gay")
 
     if porcentaje_aleatorio < 50:
-        return "eres poco gay"
+        return "Eres poco gay"
     elif porcentaje_aleatorio > 50:
-        return "eres muy gay"
+        return "Eres muy gay"
     else:
-        return "eres medio gay"
+        return "Eres medio gay"
 
 if __name__ == "__main__":
     print(main())
